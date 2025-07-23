@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Mohafadati.Services.Titres.Controllers.TitresAPIController",
+    "Method": "Get",
+    "RelativePath": "api/TitresAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mohafadati.Services.Titres.Controllers.TitresAPIController",
+    "Method": "Post",
+    "RelativePath": "api/TitresAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "Mohafadati.Services.Titres.Models.Dto.TitreDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

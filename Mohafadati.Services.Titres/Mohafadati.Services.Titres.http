@@ -1,0 +1,6 @@
+@Mohafadati.Services.Titres_HostAddress = http://localhost:5187
+
+GET {{Mohafadati.Services.Titres_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
